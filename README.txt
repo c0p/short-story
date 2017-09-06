@@ -1,0 +1,1 @@
+Emacs coding is fun
